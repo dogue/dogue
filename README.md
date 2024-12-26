@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm a CAT equipment mechanic by trade. I write code for fun in my free time.
 
-<!--
-**dogue/dogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Languages
+* Odin
+* Nim
+* Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+* operating system dev
+* game dev
+* emulation
+* embedded systems
+* language design
+* __learning new stuff__
+
+---
+
+_Err and err and err again, but less and less and less. - Piet Hein_
